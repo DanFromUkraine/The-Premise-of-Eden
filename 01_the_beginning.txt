@@ -1,0 +1,103 @@
+The premise of Eden...
+
+    what this document is
+
+    explain the concept of Eden
+
+    what i believe syntetic intelligence is
+
+    the difference between artificial and syntetic
+
+    the layout of our brain, and the reason why it has a finite complexity
+
+    the core concepts of inner mind models, which allow us to approx. predict future
+
+    the princip of dividing large problem into smaller parts, how we will go from field mouses to apes
+
+    What is human's freewill, and why it truely doesn't exist, yet we remain indeterministic creatures
+
+    how are we being shaped throughout our life
+
+    the abscence of true personality, and how we mimic the meta concept of human
+
+    how emotions evolve over time in human beings
+
+    current differences between human and LLMs (specify here also how we already implemented some of the algorithms of our mind, like machine learning for images recognition)
+
+    limitations of current John von Neumann's computers
+
+    the other problem in emotion emulation, such as high complexity of nervous system, and how our body takes part in the function of emotions
+
+    the reason why machines should be mortal too
+
+    the tessay ship example
+
+    what makes human societies so special, and why single supercomputer unit cannot outperform humanity in long-term
+
+    the moral and social limitations why we cannot make SI smarter and better than we are
+
+    what will they be capable of
+
+    suggest a roadmap to create SI
+
+
+    
+Chapter I: Ontology & The Premise of Eden
+*Ontological foundation: from the purpose of the manifesto to the essential gap between simulation and creation.*
+
+* what this document is
+* explain the concept of Eden
+* what i believe syntetic intelligence is
+* the difference between artificial and syntetic
+
+---
+
+Chapter II: The Biological Prototype & The Illusion of "Self"
+*Deconstructing the human mind: from mammalian evolution and inner models to the illusion of free will and the absence of personality.*
+
+* the layout of our brain, and the reason why it has a finite complexity
+* the core concepts of inner mind models, which allow us to approx. predict future
+* the princip of dividing large problem into smaller parts, how we will go from field mouses to apes
+* What is human's freewill, and why it truely doesn't exist, yet we remain indeterministic creatures
+* how are we being shaped throughout our life
+* the abscence of true personality, and how we mimic the meta concept of human
+* how emotions evolve over time in human beings
+
+---
+
+Chapter III: The Silicon Bottleneck & Imperfection by Design
+*Limits of the current computing paradigm: why algorithms without mortality, homeostasis, and hardware vulnerability cannot achieve emulation.*
+
+* current differences between human and LLMs (specify here also how we already implemented some of the algorithms of our mind, like machine learning for images recognition)
+* limitations of current John von Neumann's computers
+* the other problem in emotion emulation, and
+* the reason why machines should be mortal too
+
+---
+
+Chapter IV: The Social Mesh & The Human Ceiling
+*Boundaries of solitary intelligence: why distributed society is stronger than a monolithic supercomputer and why SI should not morally surpass us.*
+
+* the tessay ship example
+* what makes human societies so special, and why single supercomputer unit cannot outperform humanity in long-term
+* the moral and social limitations why we cannot make SI smarter and better than we are
+
+---
+
+Chapter V: The Synthetic Horizon & The Genesis Roadmap
+*Practical implementation: future capabilities of synthetic mind and the engineering roadmap to its creation.*
+
+* what will they be capable of
+* suggest a roadmap to create SI
+
+
+
+Chapter I: Ontology & The Premise of Eden
+
+This tractate, or manifest, depends on how you name it will try to cover all crucial topics such as Synthetic intelligence, terms, ontology, fundamental technical caveats, moral decisions that we will have to make, and the very shallow roadmap, what will be our next steps towards the future.
+
+I'm Danylo, a 17 year old bachelor student on a Computer Science program. As it's pretty informal document that will only represent my current ideas set, I want to specify here once and only that at least half, if not more, of ideas and thoughts specified below are my own observation over myself, the world, in other words, very subjective data pieces. Nevertheless, I also believe that if you give the part of your soul and enourmous amount of effort to try to find the truth in a constantly deceiving mind, the intuitive understanding, concept will be surprisingly precise. 
+
+Einstein is a gold standard of such person, who had many complex ideas, thousands (if not more), yet he managed to find the majority of falsy, so now that dozen has changed our reality forever. Only now, tens of years later with large hadron colliders, or by launching satellites into space we can tell with little remarks that he was right. Back then there were no high-tech instruments to actually see, whether time, space, and mass are interlinked. Franky speaking, there is a single powerfull instrument we often overlook available to any conscious person - observation. We as only complex neural networks cannot create something out of nowhere, neither did he, yet we can collect all the little information pieces from our experiences into the single picture. But the problem is we almost always try to find the truth-like answer, not absolutely objective key to the complex problem. It helps us a lot in our daily lives, otherwise, the question either we love black tea, or green would stop all our functioning for good 20 minutes, untill we find exactly correct preference, but, obviously, you cannot trust your gut feeling right away. This is why if we try to be honest with ourselves, it's possible to search throught many cases in our mind and actually proves in our hypothesis, or opposite.
+
+To make this exploration coherent and structured, I have divided these thoughts into five main chapters, each tackling a core layer of Synthetic Intelligence—from its ontological foundations to the practical roadmap of its creation
