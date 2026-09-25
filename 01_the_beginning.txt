@@ -46,7 +46,6 @@ Chapter I: Ontology & The Premise of Eden
 *Ontological foundation: from the purpose of the manifesto to the essential gap between simulation and creation.*
 
 * what this document is
-* explain the concept of Eden
 * what i believe syntetic intelligence is
 * the difference between artificial and syntetic
 
@@ -94,6 +93,8 @@ Chapter V: The Synthetic Horizon & The Genesis Roadmap
 
 Chapter I: Ontology & The Premise of Eden
 
+"What this document is":
+
 This tractate, or manifest, depends on how you name it will try to cover all crucial topics such as Synthetic intelligence, terms, ontology, fundamental technical caveats, moral decisions that we will have to make, and the very shallow roadmap, what will be our next steps towards the future.
 
 I'm Danylo, a 17 year old bachelor student on a Computer Science program. As it's pretty informal document that will only represent my current ideas set, I want to specify here once and only that at least half, if not more, of ideas and thoughts specified below are my own observation over myself, the world, in other words, very subjective data pieces. Nevertheless, I also believe that if you give the part of your soul and enourmous amount of effort to try to find the truth in a constantly deceiving mind, the intuitive understanding, concept will be surprisingly precise. 
@@ -101,3 +102,15 @@ I'm Danylo, a 17 year old bachelor student on a Computer Science program. As it'
 Einstein is a gold standard of such person, who had many complex ideas, thousands (if not more), yet he managed to find the majority of falsy, so now that dozen has changed our reality forever. Only now, tens of years later with large hadron colliders, or by launching satellites into space we can tell with little remarks that he was right. Back then there were no high-tech instruments to actually see, whether time, space, and mass are interlinked. Franky speaking, there is a single powerfull instrument we often overlook available to any conscious person - observation. We as only complex neural networks cannot create something out of nowhere, neither did he, yet we can collect all the little information pieces from our experiences into the single picture. But the problem is we almost always try to find the truth-like answer, not absolutely objective key to the complex problem. It helps us a lot in our daily lives, otherwise, the question either we love black tea, or green would stop all our functioning for good 20 minutes, untill we find exactly correct preference, but, obviously, you cannot trust your gut feeling right away. This is why if we try to be honest with ourselves, it's possible to search throught many cases in our mind and actually proves in our hypothesis, or opposite.
 
 To make this exploration coherent and structured, I have divided these thoughts into five main chapters, each tackling a core layer of Synthetic Intelligence—from its ontological foundations to the practical roadmap of its creation
+
+"What I call Syntetic Intelligence"
+
+We already have large language models, machine learning models. I would expect a question, why do we need even larger vocabulary, "let's just call everything artificial intelligence". However, all this development of tools, we are using everyday makes me ask a lot of questions, and of them: what is the difference between us and LLM? I will explain it a bit below, but for now: what if create a computer with a dynamic algorithms of constant learning that functionally and architectually doesn't have any difference with us? It acts unpredictably, emotionally, the way not a single forecasting model can produce. It something beyond the lexicon we use nowadays, as now such technologies are non-existant. Now let me introduce the things you most likely already know, but I just want to stay on the same page with you: in computer world we usually have only simulation, and emulation. Simulation, is when you only mimic the outer charasterisitcs and behavior, while emulation reproduces all the steps and actions original system did in the same way, so outer charasteristics appear on their own. Here is a short example: you take photo of a brain, where you can see neurons in high-res, somehow, then you ask pretrained machine learning model to predict, how it will look like ONLY VISUALLY, in about 1 hour. On the other hand, instead of taking a picture you form a complex data structure of neurons, all their physical connections, peptide ones, all this chemical soup they are floating in, so you mathematically try to calculate how neurons will grow, activate, etc. The former, visual method, is surely simulation, while the second one is emulation. This understanding is really important, because all LLM modals only mimic the symptoms of behavior of humans who created the data they consumed, and while they have weights in their memory, so they can relate concepts of male and female closer compared to male and apple, but it's only one of the core mechanisms we have in our mind out of dozens. The prerequisites are done, so let's go back to the syntetic intelligence. This term was created by the philosopher John Haugeland in 1985. Basically, if AI is a simulation, then syntetic intelligence is an emulation. He drew a novel comparison between AI and SI: AI is like cubic zirconia - a mere imitation - whereas SI is like a lab-grown diamond, which is chemically authentic. I believe now this SI also sticks to your mind, and you will own yet another acronim.
+
+
+
+
+
+
+
+
