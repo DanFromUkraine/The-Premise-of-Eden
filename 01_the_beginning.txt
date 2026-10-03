@@ -45,16 +45,16 @@ The premise of Eden...
 Chapter I: Ontology & The Premise of Eden
 *Ontological foundation: from the purpose of the manifesto to the essential gap between simulation and creation.*
 
-* what this document is
-* what i believe syntetic intelligence is
-* the difference between artificial and syntetic
+* what this document is +++
+* what i believe syntetic intelligence is +++
+* the difference between artificial and syntetic +++
 
 ---
 
 Chapter II: The Biological Prototype & The Illusion of "Self"
 *Deconstructing the human mind: from mammalian evolution and inner models to the illusion of free will and the absence of personality.*
 
-* the layout of our brain, and the reason why it has a finite complexity
+* the layout of our brain, and the reason why it has a finite complexity +++
 * the core concepts of inner mind models, which allow us to approx. predict future
 * the princip of dividing large problem into smaller parts, how we will go from field mouses to apes
 * What is human's freewill, and why it truely doesn't exist, yet we remain indeterministic creatures
@@ -105,7 +105,56 @@ To make this exploration coherent and structured, I have divided these thoughts 
 
 "What I call Syntetic Intelligence"
 
-We already have large language models, machine learning models. I would expect a question, why do we need even larger vocabulary, "let's just call everything artificial intelligence". However, all this development of tools, we are using everyday makes me ask a lot of questions, and of them: what is the difference between us and LLM? I will explain it a bit below, but for now: what if create a computer with a dynamic algorithms of constant learning that functionally and architectually doesn't have any difference with us? It acts unpredictably, emotionally, the way not a single forecasting model can produce. It something beyond the lexicon we use nowadays, as now such technologies are non-existant. Now let me introduce the things you most likely already know, but I just want to stay on the same page with you: in computer world we usually have only simulation, and emulation. Simulation, is when you only mimic the outer charasterisitcs and behavior, while emulation reproduces all the steps and actions original system did in the same way, so outer charasteristics appear on their own. Here is a short example: you take photo of a brain, where you can see neurons in high-res, somehow, then you ask pretrained machine learning model to predict, how it will look like ONLY VISUALLY, in about 1 hour. On the other hand, instead of taking a picture you form a complex data structure of neurons, all their physical connections, peptide ones, all this chemical soup they are floating in, so you mathematically try to calculate how neurons will grow, activate, etc. The former, visual method, is surely simulation, while the second one is emulation. This understanding is really important, because all LLM modals only mimic the symptoms of behavior of humans who created the data they consumed, and while they have weights in their memory, so they can relate concepts of male and female closer compared to male and apple, but it's only one of the core mechanisms we have in our mind out of dozens. The prerequisites are done, so let's go back to the syntetic intelligence. This term was created by the philosopher John Haugeland in 1985. Basically, if AI is a simulation, then syntetic intelligence is an emulation. He drew a novel comparison between AI and SI: AI is like cubic zirconia - a mere imitation - whereas SI is like a lab-grown diamond, which is chemically authentic. I believe now this SI also sticks to your mind, and you will own yet another acronim.
+We already have large language models, machine learning models. I would expect a question, why do we need even larger vocabulary, "let's just call everything artificial intelligence". However, all this development of tools, we are using everyday makes me ask a lot of questions, and of them: what is the difference between us and LLM? I will explain it a bit below, but for now: what if create a computer with a dynamic algorithms of constant learning that functionally and architectually doesn't have any difference with us? It acts unpredictably, emotionally, the way not a single forecasting model can produce. It something beyond the lexicon we use nowadays, as now such technologies are non-existant. Now let me introduce the things you most likely already know, but I just want to stay on the same page with you: in computer world we usually have only simulation, and emulation. Simulation, is when you only mimic the outer charasterisitcs and behavior, while emulation reproduces all the steps and actions original system did in the same way, so outer charasteristics appear on their own. Here is a short example: you take photo of a brain, where you can see neurons in high-res, somehow, then you ask pretrained machine learning model to predict, how it will look like ONLY VISUALLY, in about 1 hour. On the other hand, instead of taking a picture you form a complex data structure of neurons, all their physical connections, peptide ones, all this chemical soup they are floating in, so you mathematically try to calculate how neurons will grow, activate, etc. The former, visual method, is surely simulation, while the second one is emulation. This understanding is really important, because all LLM modals only mimic the symptoms of behavior of humans who created the data they consumed, and while they have weights in their memory, so they can relate concepts of male and female closer compared to male and apple, but it's only one of the core mechanisms we have in our mind out of dozens. The prerequisites are done, so let's go back to the syntetic intelligence. This term was created by the philosopher John Haugeland in 1985. Basically, if AI is a simulation, then syntetic intelligence is an emulation. He drew a novel comparison between AI and SI: AI is like cubic zirconia - a mere imitation - whereas SI is like a lab-grown diamond, which is chemically authentic. I believe now this SI also sticks to your mind, and you will bear yet another acronim.
+
+
+Chapter 2: The Biological Prototype & The Illusion of "Self"
+
+"Imagine color you've never seen"
+One of the most remarkable limitations of human thought — or perhaps one of its greatest strengths — is that we do not create ideas out of nothing. Most discoveries and technologies begin with something already available to us: an observation of nature, an earlier concept, a practical problem, or a previous invention.
+Our ancestors did not have to imagine the idea of circular motion in a complete conceptual vacuum. Nature already contained countless examples of curved shapes, rotation, rolling objects, and repeating motion. Later discoveries followed a similar pattern. Observations accumulated, were abstracted into concepts, combined with other observations, and eventually developed into increasingly complex hypotheses and theories.
+Personal experience, imagination, and abstraction can radically transform those ingredients, sometimes to the point where the result appears completely novel. Yet even the strangest idea is constructed from concepts the mind already possesses. We can recombine them, generalize them, negate them, or extrapolate far beyond anything we have directly observed — but it is difficult to meaningfully conceive of something for which we have absolutely no conceptual basis at all.
+
+"Interesting observation over many machine learning algorithms"
+I remember, many years ago "Quick, Draw!" was spreading rapidly, where users had to doodle something in 10–30 seconds, while a machine learning algorithm tried to recognize it. In my childhood, it was a lot of fun)
+But only recently I discovered some fascinating experiments involving people with epilepsy. In certain cases, doctors temporarily placed electrodes directly in the brain while preparing patients for treatment, which also gave researchers a rare opportunity to observe how the human brain reacts to images.
+And this is the part that really surprised me: many image-recognition algorithms work on a remarkably similar principle. Instead of recognizing an object all at once, both systems gradually build the picture from simpler visual features into more complex ones, until something recognizable emerges.
+Of course, artificial neural networks are not literal copies of the brain. But the fact that a system we built for recognizing images ended up using computational principles so similar to those found in our own visual system is fascinating to me.
+
+[THIS PART MUST BE EDITED, TOO MUCH OF POPULARIZATION, THE TEXT SHOULD BE MORE AUTHENTIC]
+Additionally, LLMs use mechanisms remarkably similar to one of those available in our brains. For instance, you read "I love coffee with milk and ...", and you're pretty likely to hear "sugar" in your head before actually seeing the word. That's prediction.
+I believe that nowadays everything goes through a single model box (more about this later), yet our brains seem to have certain "utilities" that make our lives significantly easier. Based on our past experience, social norms, context, etc., those predictions may differ.
+Now, what if we take this word-prediction feature, replace personal experience with learned weights and temporary context, and then scale the whole thing to billions of parameters? We get something remarkably similar to the basic idea behind an LLM.
+I've done some shallow research, and there is currently no direct proof that LLMs use the exact same word-prediction algorithm as our brains. Yet we do know that our brains constantly anticipate upcoming words during natural speech — sometimes hundreds of milliseconds before we actually hear them. When the real word is different from what was expected, the brain produces a measurable "surprise" response.
+Even more interestingly, researchers comparing brain activity with language models have found several shared computational principles: both use previous context to predict what comes next, both react to unexpected words, and both represent the same word differently depending on its context.
+So no, we haven't proven that an LLM is simply a gigantic artificial copy of our brain's autocomplete (yet...). But the similarities deserve few more doctor disserations.
+
+"Why brain's architecture has a finite complexity"
+Our brain is an extremely complex prediction machine. It contains more than 80 billion neurons and hundreds of trillions of synapses — connections between those neurons. And even that describes only part of the story. There are also different cell types, chemical signals, feedback loops, changing connection strengths, and many other mechanisms interacting at the same time.
+At first glance, trying to reproduce all of this in code sounds completely absurd.
+But I think we are looking at the problem from the wrong direction.
+If you look at how state-of-the-art processors are designed, nobody sits in front of a screen and manually decides where every single transistor should go. Engineers design the architecture: blocks, interfaces, constraints, communication between components, and rules according to which the system should behave. Then specialized software handles enormous amounts of lower-level complexity.
+The final processor may contain tens of billions of transistors, yet the description of its architecture is dramatically simpler than a list describing every transistor individually.
+I think the same idea may apply to the brain.
+If we ever attempted to describe a human brain in code, we probably shouldn't begin with individual neurons. We should start from the top: large brain regions, their general responsibilities, how they communicate, what information flows between them, and under which conditions. Then we go one level deeper. And another. And another.
+At every level, we describe structures and rules that remain relatively stable instead of trying to control every individual element produced by those rules.
+Eventually, we may reach a point where specifying individual neurons becomes unnecessary. Instead, we describe how a local circuit should be organized, what types of neurons should approximately exist there, how they should connect, how connections may change over time, and then allow algorithms to generate the actual microscopic implementation.
+And this microscopic implementation probably shouldn't be identical every time either.
+Two biological brains are not wired neuron-for-neuron in exactly the same way. Small differences in neuron positions, connection density, initial proportions of certain local patterns, and many other details may matter. It is entirely possible that we would have to generate these variations rather than design them manually.
+This is where machine learning could become especially useful. A generative system could produce thousands or millions of slightly different initial configurations, while another system evaluates which combinations are more stable, efficient, adaptable, or biologically plausible. Instead of humans deciding where neuron number 48,392,107 should go, we define the rules and let optimization discover a good arrangement.
+So when I say that the brain may have finite complexity, I don't mean that it is simple. Quite the opposite.
+I mean that the amount of information required to describe its underlying architecture may be finite and much smaller than the amount of information required to describe the exact state of every neuron and every connection inside one particular brain.
+The complexity emerges from relatively compact rules being repeated, combined, adapted, and allowed to interact.
+And in the end, you might reasonably ask: why reproduce human architecture at all? Why not design something completely new and better?
+Maybe we eventually will. We could probably change certain proportions, extend some systems, remove biological limitations, or add mechanisms evolution never had any reason to produce.
+But then we return to the same uncomfortable question from the beginning of this chapter:
+Can you imagine a color you have never seen?
+Perhaps we are much better at modifying existing architectures than inventing completely alien ones. And even seemingly minor modifications to something as interconnected as a brain could have consequences we never intended.
+But that's the next part.
+
+"Why creating man-kind replica is the best option of syntetic intelligence development?"
+
+
 
 
 
