@@ -30,16 +30,6 @@ The premise of Eden...
     suggest a roadmap to create SI
 
 
-    
-Chapter I: Ontology & The Premise of Eden
-*Ontological foundation: from the purpose of the manifesto to the essential gap between simulation and creation.*
-
-* what this document is +++
-* what i believe syntetic intelligence is +++
-* the difference between artificial and syntetic +++
-
----
-
 Chapter II: The Biological Prototype & The Illusion of "Self"
 *Deconstructing the human mind: from mammalian evolution and inner models to the illusion of free will and the absence of personality.*
 
